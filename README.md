@@ -57,7 +57,7 @@ Program ini dirancang untuk mengelola data mahasiswa secara terstruktur, mencaku
 - **Object Oriented Programming (OOP)**
 - **Modular Programming**
 - **Lambda Function**
-- **Recursive Function (Menu Program)**
+- **Recursive Function (Menu Program & Menu Manajemen)**
 - **Validasi Input**
 - **String Formatting & Dynamic Table**
 - **File Handling (CSV)**
