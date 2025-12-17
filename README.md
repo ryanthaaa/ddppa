@@ -1,5 +1,8 @@
 # 🔥DDPPA🔥
 🌟 DDPPA : Dasar Dasar Pemrograman Project Akhir
+By :
+Riantha Pratama (42530033)
+Dika Gus Septa (42530015)
 
 Sistem Informasi Akademik Mahasiswa berbasis **Command Line Interface (CLI)** yang dibangun menggunakan bahasa pemrograman **Python**.  
 
