@@ -1,8 +1,6 @@
 # 🔥DDPPA🔥
 🌟 DDPPA : Dasar Dasar Pemrograman Project Akhir
 
-## 📚 Sistem Informasi Akademik Mahasiswa (CLI – Python)
-
 Sistem Informasi Akademik Mahasiswa berbasis **Command Line Interface (CLI)** yang dibangun menggunakan bahasa pemrograman **Python**.  
 
 Program ini dirancang untuk mengelola data mahasiswa secara terstruktur, mencakup **manajemen data mahasiswa, nilai akademik, presensi, dan laporan**, dengan pendekatan **pemrograman modular dan berorientasi objek**.
@@ -130,6 +128,7 @@ Program ini dirancang untuk mengelola data mahasiswa secara terstruktur, mencaku
 ---
 
 ## 🗂 Struktur Folder
+
 📦 Project/
 │
 ├── Data/
